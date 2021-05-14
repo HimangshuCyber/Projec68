@@ -1,2 +1,2 @@
-# Projec68
-All I can say,
+# School_Web_Template_HTML_CSS
+School Web Template with HTML and CSS
